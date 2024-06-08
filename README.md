@@ -1,1 +1,1 @@
-# ObsidianVault
+# Obsidian Vault
