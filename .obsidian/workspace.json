@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43f745b3039935ab",
+        "id": "333d830a0bdaa5c1",
         "type": "tabs",
         "children": [
           {
-            "id": "ee83202d1fc4487e",
+            "id": "7962c0c9f6c12b40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee83202d1fc4487e",
+  "active": "7962c0c9f6c12b40",
   "lastOpenFiles": [
-    "Test.md",
+    "Test6.md",
+    "Test5.md",
+    "Test4.md",
     "README.md",
-    "Obsidian.md"
+    "Obsidian.md",
+    "Test3.md",
+    "Test1.md",
+    "Test2.md"
   ]
 }
